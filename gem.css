@@ -11,7 +11,7 @@ a#menu-item-help, a#menu-item-node-red-version {
 }
 #red-ui-header #red-ui-header-button-deploy {
     background: linear-gradient(-60deg, rgb(71 84 84) 0%, rgba(253,252,45,0.9094012605042017) 100%) !important;
-    color: #fff;
+    color: #fff !important;
 }
 #red-ui-header .button-group {
     border: white 1px solid !important;
