@@ -19,3 +19,6 @@ a#menu-item-help, a#menu-item-node-red-version {
 #red-ui-header .button {
     border: none !important;
 }
+label.enebular-admin-switchLabel {
+    display: inline-block !important;
+}
