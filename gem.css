@@ -4,3 +4,18 @@
 a#menu-item-help {
     display: none;
 }
+#red-ui-header {
+    color: #fff !important;
+    background: rgb(34,193,195) !important;
+    background: linear-gradient(143deg, rgba(34,193,195,1) 0%, rgba(166,253,45,0.9094012605042017) 100%) !important;
+}
+#red-ui-header #red-ui-header-button-deploy {
+    background: linear-gradient(-60deg, rgb(71 84 84) 0%, rgba(253,252,45,0.9094012605042017) 100%) !important;
+    color: #fff;
+}
+#red-ui-header .button-group {
+    border: white 1px solid !important;
+}
+#red-ui-header .button {
+    border: none !important;
+}
