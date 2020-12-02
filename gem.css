@@ -6,8 +6,8 @@ a#menu-item-help, a#menu-item-node-red-version {
 }
 #red-ui-header {
     color: #fff !important;
-    background: rgb(34,193,195) !important;
-    background: linear-gradient(143deg, rgba(34,193,195,1) 0%, rgba(166,253,45,0.9094012605042017) 100%) !important;
+    background: rgb(2,2,2) !important;
+    background: linear-gradient(145deg, rgb(29 29 29) 0%, rgb(114 123 34 / 91%) 100%) !important;
 }
 #red-ui-header #red-ui-header-button-deploy {
     background: linear-gradient(-60deg, rgb(71 84 84) 0%, rgba(253,252,45,0.9094012605042017) 100%) !important;
