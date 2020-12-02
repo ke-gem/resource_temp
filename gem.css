@@ -1,3 +1,6 @@
 #red-ui-header span.red-ui-header-logo img {
     display: none !important;
 }
+a#menu-item-help {
+    display: none;
+}
