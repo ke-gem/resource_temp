@@ -1,8 +1,8 @@
 #red-ui-header span.red-ui-header-logo img {
     display: none !important;
 }
-a#menu-item-help, a#menu-item-node-red-version {
-    display: none;
+a#menu-item-help, a#menu-item-node-red-version, .node-users-config-wrapper .alert-info {
+    display: none !important;
 }
 #red-ui-header {
     color: #fff !important;
@@ -21,4 +21,7 @@ a#menu-item-help, a#menu-item-node-red-version {
 }
 label.enebular-admin-switchLabel {
     display: inline-block !important;
+}
+.node-users-config-wrapper .advanced-form-wrapper expanded {
+    max-height: 500px !important;
 }
