@@ -22,6 +22,6 @@ a#menu-item-help, a#menu-item-node-red-version, .node-users-config-wrapper .aler
 label.enebular-admin-switchLabel {
     display: inline-block !important;
 }
-.node-users-config-wrapper .advanced-form-wrapper expanded {
+.node-users-config-wrapper .advanced-form-wrapper.expanded {
     max-height: 500px !important;
 }
