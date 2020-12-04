@@ -1,7 +1,7 @@
 #red-ui-header span.red-ui-header-logo img {
     display: none !important;
 }
-a#menu-item-help, a#menu-item-node-red-version, .node-users-config-wrapper .alert-info {
+a#menu-item-help, a#menu-item-node-red-version, .node-users-config-wrapper .alert-info,#red-ui-tab-red-ui-settings-tab-palette {
     display: none !important;
 }
 #red-ui-header {
